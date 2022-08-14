@@ -135,5 +135,9 @@ curl http://127.0.0.1:9200/_cluster/health
 
 ```
 
+## 4.性能测试
+参考，https://cloud.tencent.com/developer/article/1595636
+版本有点问题
+
 ## 备注：
 * es和kibana版本对比
