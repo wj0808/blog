@@ -129,5 +129,11 @@ services:
       - /data/clearml/logs/:/usr/share/elasticsearch/logs
 ```
 
+## 3.查看es健康命令
+```
+curl http://127.0.0.1:9200/_cluster/health
+
+```
+
 ## 备注：
 * es和kibana版本对比
